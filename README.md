@@ -7,7 +7,7 @@ My goal for this year is to attend more ETH events, meet innovators in this spac
 
 My hobbies include kayaking :rowboat: surfing :surfing_man: and running :runner:
 
-<div class="tenor-gif-embed" data-postid="21418519" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/turn-around-with-my-kayak-red-bull-kayaking-kayak-stunts-gif-21418519">Turn Around With My Kayak Red Bull GIF</a>from <a href="https://tenor.com/search/turn+around+with+my+kayak-gifs">Turn Around With My Kayak GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe width="560" height="315" src="https://tenor.com/view/turn-around-with-my-kayak-red-bull-kayaking-kayak-stunts-gif-21418519" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Previous Events :wrench:
 - First Conference : Blockchain Ireland Week 2023 - Dublin, Ireland :ireland:  
