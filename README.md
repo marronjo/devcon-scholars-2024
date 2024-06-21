@@ -1,11 +1,13 @@
 # Devcon Scholars Application 2024
 
 ## About Me :wave:
-I am from Dublin, Ireland and I am a software engineer by trade. I have previous experience working in a trading firm (SIG) and working on digital asset initiatives within the worlds largest custody bank (BNY) :money_with_wings:
+Hey my name is Joe and I am from Dublin, Ireland and I am a software engineer by trade. I have previous experience working in a trading firm (SIG) and working on digital asset initiatives within the worlds largest custody bank (BNY) :money_with_wings:
 
 My goal for this year is to attend more ETH events, meet innovators in this space and to find a job as a software/smart contract engineer in a cutting-edge company within the Ethereum ecosystem :computer:
 
 My hobbies include kayaking :rowboat: surfing :surfing_man: and running :runner:
+
+![kayaking gif](https://tenor.com/en-GB/view/turn-around-with-my-kayak-red-bull-kayaking-kayak-stunts-gif-21418519)
 
 ## Previous Events :wrench:
 - First Conference : Blockchain Ireland Week 2023 - Dublin, Ireland :ireland:  
