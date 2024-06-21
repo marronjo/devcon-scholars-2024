@@ -15,7 +15,7 @@ More focus on the business / regulation / compliance side of the blockchain indu
 I went solo and met so many cool people, we built an AI dataset marketplace using CCIP + Chainlink Functions.
 
 - First Hackathon Prize : Chainlink Constellation 2023 - Virtual :computer:  
-We won a top quality prize for our project 'virtual hops' which finds the cheapest path between different CCIP-enabled networks
+We won a top quality prize for our project [Virtual Hops](https://github.com/marronjo/virtual-hops) which finds the cheapest path between different CCIP-enabled networks
 
 - First ETH Global Event : ETH London 2024 - London, UK :uk:  
-Won prizes with Hyperlane, Fhenix and Nethermind for our cross-chain FHE encrypted automated market maker called 'MysticDEX'.  
+Won prizes with Hyperlane, Fhenix and Nethermind for our cross-chain FHE encrypted automated market maker called [MysticDEX](https://github.com/SwineCoder101/MysticDex).  
