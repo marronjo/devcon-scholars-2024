@@ -7,7 +7,7 @@ My goal for this year is to attend more ETH events, meet innovators in this spac
 
 My hobbies include kayaking :rowboat: surfing :surfing_man: and running :runner:
 
-## Previous Events / Hackathons :wrench:
+## Previous Events :wrench:
 - First Conference : Blockchain Ireland Week 2023 - Dublin, Ireland :ireland:  
 More focus on the business / regulation / compliance side of the blockchain industry, non-technical.
 
@@ -19,3 +19,10 @@ We won a top quality prize for our project [Virtual Hops](https://github.com/mar
 
 - First ETH Global Event : ETH London 2024 - London, UK :uk:  
 Won prizes with Hyperlane, Fhenix and Nethermind for our cross-chain FHE encrypted automated market maker called 'MysticDEX'. [repository](https://github.com/SwineCoder101/MysticDex), [showcase](https://ethglobal.com/showcase/mystic-dex-me14f).  
+
+## Upcoming Events :handshake:
+- ETH Singapore :singapore:
+- Smartcon 2024 - Hong Kong :hong_kong:
+- Devcon 2024 - Bangkok, Thailand :thailand:
+
+Unfortunately I won't make it to ETHCC in Brussels :cry:
