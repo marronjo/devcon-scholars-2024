@@ -18,7 +18,8 @@ I went solo and met so many cool people, we built an AI dataset marketplace usin
 We won a top quality prize for our project [Virtual Hops](https://github.com/marronjo/virtual-hops) which finds the cheapest path between different CCIP-enabled networks
 
 - First ETH Global Event : ETH London 2024 - London, UK :uk:  
-Won prizes with Hyperlane, Fhenix and Nethermind for our cross-chain FHE encrypted automated market maker called 'MysticDEX'. [repository](https://github.com/SwineCoder101/MysticDex), [showcase](https://ethglobal.com/showcase/mystic-dex-me14f).  
+Won prizes with Hyperlane, Fhenix and Nethermind for our
+ cross-chain FHE encrypted automated market maker called 'MysticDEX'. [repository](https://github.com/SwineCoder101/MysticDex), [showcase](https://ethglobal.com/showcase/mystic-dex-me14f).  
 
 ## Upcoming Events :handshake:
 - ETH Singapore :singapore:
@@ -29,5 +30,4 @@ Unfortunately I won't make it to ETHCC in Brussels :cry:
 
 ## Video Application
 
-<video src="https://drive.google.com/file/d/1ARFFWfemAgAr7tHrbZvyfnFAJNhWTr1L/view?usp=sharing"></video>
-
+![Video Application](https://github.com/marronjo/devcon-scholars-2024/assets/68810618/e2ec0fec-ebbd-4354-818a-89cd18ebb872)
