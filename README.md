@@ -7,8 +7,6 @@ My goal for this year is to attend more ETH events, meet innovators in this spac
 
 My hobbies include kayaking :rowboat: surfing :surfing_man: and running :runner:
 
-<iframe width="560" height="315" src="https://tenor.com/view/turn-around-with-my-kayak-red-bull-kayaking-kayak-stunts-gif-21418519" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Previous Events :wrench:
 - First Conference : Blockchain Ireland Week 2023 - Dublin, Ireland :ireland:  
 More focus on the business / regulation / compliance side of the blockchain industry, non-technical.
@@ -28,3 +26,6 @@ Won prizes with Hyperlane, Fhenix and Nethermind for our cross-chain FHE encrypt
 - Devcon 2024 - Bangkok, Thailand :thailand:
 
 Unfortunately I won't make it to ETHCC in Brussels :cry:
+
+## Reason for applying to Devcon Scholars Program
+
