@@ -30,4 +30,4 @@ Unfortunately I won't make it to ETHCC in Brussels :cry:
 
 ## Video Application
 
-![Video Application](https://github.com/marronjo/devcon-scholars-2024/assets/68810618/e2ec0fec-ebbd-4354-818a-89cd18ebb872)
+<video src="https://github.com/marronjo/devcon-scholars-2024/assets/68810618/e2ec0fec-ebbd-4354-818a-89cd18ebb872.mp4"></video>
